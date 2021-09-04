@@ -10,3 +10,15 @@ A python3 demo to detect black objects in a white background
 pip install opencv-python
 pip install numpy
 ```
+
+## Usage
+Linux
+```
+git clone https://github.com/cangzihan/Python-CV-Cutter.git
+cd Python-CV-Cutter/
+python3 cv_cutter.py
+```
+
+
+
+
